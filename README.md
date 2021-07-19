@@ -1,13 +1,12 @@
 # Meme Share App
 
-
 ##
 
 ![Alt Text](https://media.giphy.com/media/48P5uq1HRWgZPGgKpc/giphy.gif)
 
-##
+# Introduction:-
 
-It is a Meme Sharing App, which is only used on Android Operating System.
+In this codebase, I build an Android App that Randomly Generate a MEME using Reddit-API.
 
 ###
 
