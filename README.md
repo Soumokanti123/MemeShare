@@ -38,8 +38,17 @@ Load Random Image in our App, I use **VOLLEY LIBRARY**. Volley library calling t
 
 [Volley is an HTTP library that makes networking for Android apps easier and most importantly, faster. Volley is available on GitHub.]
 
+After that I extract The JSON file. 
 
-![Alt Text](https://drive.google.com/file/d/1ZSmbKYBaM2fqlJeDtpKLcuXjf0dFnONR/view?usp=sharing)
+This all things are done in **loadImage()** function
+
+When User clicked the next Button **loadImage()** function again called and show Image.
+
+User can Only share the extracted link/string when clicked on the share button.
+
+Share button use **Intent** library which allow the user share the link in different apps which support text or link.
 
 ##
+
+
 
